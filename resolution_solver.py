@@ -1,9 +1,9 @@
 class ResolutionSolver:
-   """
+    """
             It helps calculating with and height to be used depending on the base resolution of the model.
             It calculates by any aspect ratios, such as 1:1, 2:3, 16:9 and so on, so don't need to recauculate
             every time, just adjust the base resolution you want to use, like 512, 768, 1024 or others.
-        """
+    """
     def __init__(self):
         pass
     
@@ -63,4 +63,3 @@ NODE_CLASS_MAPPINGS = {
 NODE_DISPLAY_NAME_MAPPINGS = {
     "ResolutionSolver": "Simple Latent Resolution Solver"
 }
-
