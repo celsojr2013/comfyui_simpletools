@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_simpletools"
+description = "Nodes:Simple Gooogle Translator Client, Simple Mustache Parameter Switcher, Simple Latent Resolution Solver."
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["googletrans==3.1.0a0"]
+
+[project.urls]
+Repository = "https://github.com/celsojr2013/comfyui_simpletools"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui_simpletools"
+Icon = ""
