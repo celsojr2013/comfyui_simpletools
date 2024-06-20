@@ -10,6 +10,6 @@ Repository = "https://github.com/celsojr2013/comfyui_simpletools"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "cj"
 DisplayName = "comfyui_simpletools"
 Icon = ""
